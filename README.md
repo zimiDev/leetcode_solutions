@@ -33,3 +33,15 @@ The solutions are automatically structured by difficulty and problem name:
 │   │   ├── README.md
 │   │   └── 0003-longest-substring-without-repeating-characters.py
 └── Hard/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
