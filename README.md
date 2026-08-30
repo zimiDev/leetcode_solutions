@@ -44,4 +44,12 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
