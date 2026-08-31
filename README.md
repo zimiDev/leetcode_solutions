@@ -49,10 +49,12 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/zimiDev/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
