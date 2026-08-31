@@ -58,6 +58,7 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/zimiDev/leetcode_solutions/tree/main/0258-add-digits/) | Easy |
+| [0326-power-of-three](https://github.com/zimiDev/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,8 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/zimiDev/leetcode_solutions/tree/main/0258-add-digits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/zimiDev/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
