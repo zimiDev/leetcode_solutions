@@ -62,6 +62,7 @@ The solutions are automatically structured by difficulty and problem name:
 | ------- | ------- |
 | [0258-add-digits](https://github.com/zimiDev/leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/zimiDev/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/zimiDev/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -76,4 +77,9 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/zimiDev/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/zimiDev/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/zimiDev/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
