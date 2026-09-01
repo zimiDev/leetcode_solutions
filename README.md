@@ -42,6 +42,7 @@ The solutions are automatically structured by difficulty and problem name:
 | [0001-two-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/zimiDev/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ The solutions are automatically structured by difficulty and problem name:
 | [0326-power-of-three](https://github.com/zimiDev/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zimiDev/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -97,4 +99,8 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
