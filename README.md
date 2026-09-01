@@ -56,6 +56,7 @@ The solutions are automatically structured by difficulty and problem name:
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ The solutions are automatically structured by difficulty and problem name:
 | [0326-power-of-three](https://github.com/zimiDev/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zimiDev/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,12 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/zimiDev/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
