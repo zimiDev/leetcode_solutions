@@ -41,6 +41,7 @@ The solutions are automatically structured by difficulty and problem name:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/zimiDev/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,8 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
