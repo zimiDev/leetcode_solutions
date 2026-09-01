@@ -14,8 +14,8 @@ Solutions are automatically synced to GitHub using **LeetHub v3**.
 
 ## 📊 Progress & Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/ibrohim088) 
-*(Eslatma: URL'dagi `ibrohim088` o'rniga o'zingizning aniq LeetCode username'ingizni yozib qo'ying)*
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/zimi_dev) 
+
 
 ---
 
