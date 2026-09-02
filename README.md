@@ -43,6 +43,7 @@ The solutions are automatically structured by difficulty and problem name:
 | [0283-move-zeroes](https://github.com/zimiDev/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ The solutions are automatically structured by difficulty and problem name:
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
