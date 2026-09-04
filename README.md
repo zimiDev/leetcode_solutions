@@ -44,6 +44,7 @@ The solutions are automatically structured by difficulty and problem name:
 | [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,8 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
