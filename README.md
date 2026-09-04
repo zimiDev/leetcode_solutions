@@ -43,12 +43,14 @@ The solutions are automatically structured by difficulty and problem name:
 | [0283-move-zeroes](https://github.com/zimiDev/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/zimiDev/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zimiDev/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/zimiDev/leetcode_solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/zimiDev/leetcode_solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ The solutions are automatically structured by difficulty and problem name:
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/zimiDev/leetcode_solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
