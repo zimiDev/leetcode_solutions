@@ -56,11 +56,13 @@ The solutions are automatically structured by difficulty and problem name:
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/zimiDev/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zimiDev/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/zimiDev/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/zimiDev/leetcode_solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/zimiDev/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
