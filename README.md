@@ -61,6 +61,7 @@ The solutions are automatically structured by difficulty and problem name:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/zimiDev/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/zimiDev/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/zimiDev/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -116,4 +117,12 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/zimiDev/leetcode_solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/zimiDev/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/zimiDev/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
