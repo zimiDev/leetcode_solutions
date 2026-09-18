@@ -125,4 +125,20 @@ The solutions are automatically structured by difficulty and problem name:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/zimiDev/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/zimiDev/leetcode_solutions/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
